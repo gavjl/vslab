@@ -1,1 +1,0 @@
-xcopy *.* C:\inetpub\wwwroot\GloboMantics\ /Y
